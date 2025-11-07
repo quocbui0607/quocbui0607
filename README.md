@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer with algorithm and infrastructure from Vietnam</h3>
 <h3 align="left">Certificates:</h3>
 <p align="left"> 
-<a href="https://www.credly.com/badges/6029a8c8-a49f-49b5-bf1c-ae9bbc36dfff/linked_in_profile" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-kubernetes-application-developer-ckad%2F&psig=AOvVaw35k6UWGk29xAQutNnK60iy&ust=1762637108155000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNidpYf94JADFQAAAAAdAAAAABAE" alt="CKAD Image" height="30" width="40" /></a>
+<a href="https://www.credly.com/badges/6029a8c8-a49f-49b5-bf1c-ae9bbc36dfff/linked_in_profile" target="blank"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png" alt="CKAD Image" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
