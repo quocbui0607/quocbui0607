@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quoc (Wong)</h1>
 <h3 align="center">A passionate developer with algorithm and infrastructure from Vietnam</h3>
+![Axon 2022](https://github.com/user-attachments/assets/abda2491-ed6f-45bf-a4cb-1be32e264732)
 <h3 align="left">Certificates:</h3>
+
 <p align="left"> 
 <a href="https://www.credly.com/badges/6029a8c8-a49f-49b5-bf1c-ae9bbc36dfff/linked_in_profile" target="blank"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png" alt="CKAD Image" height="30" width="40" /></a>
 </p>
