@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quoc (Wong)</h1>
 <h3 align="center">A passionate developer with algorithm and infrastructure from Vietnam</h3>
-![Axon 2022](https://github.com/user-attachments/assets/abda2491-ed6f-45bf-a4cb-1be32e264732)
 <h3 align="left">Certificates:</h3>
 
 <p align="left"> 
