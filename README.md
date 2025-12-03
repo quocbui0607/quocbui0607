@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Frontend:</h3>
-<p align="right"> 
+<p align="left"> 
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
 <a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/></a>
@@ -38,7 +38,7 @@
 <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/></a>
 </p>
 
-<h3 align="left">Frontend:</h3>
+<h3 align="left">Backend:</h3>
 <p align="left"> 
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
 <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
@@ -52,7 +52,7 @@
 </p>
 
 <h3 align="left">Tools & DevOps:</h3>
-<p align="right"> 
+<p align="left"> 
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
 <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
 <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
@@ -60,5 +60,3 @@
 <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a>
 <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbui0607&show_icons=true&locale=en&layout=compact" alt="quocbui0607" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quocbui0607&" alt="quocbui0607" /></p>
