@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quoc (Wong) </h1>
+<h1 align="center">Hi 👋, I'm Quoc (Warren) </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
 
