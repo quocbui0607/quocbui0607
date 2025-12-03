@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
 
 <h3 align="center">A passionate developer with algorithm and infrastructure from Vietnam</h3>
-<h3 align="center">I just became Permanent Residence in United States on 26 October, 2025 :raised_hands:</h3>
+<h3 align="center">I just became Permanent Residence in United States on 26 October, 2025 :raised_hands::raised_hands::raised_hands:</h3>
 <h3 align="center">Please kindly check my portfolio via: https://quocbui.me/</h3>
 
 <h3 align="left">Certificates:</h3>
@@ -19,14 +19,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,go)](https://skillicons.dev)
 
 <h3 align="left">Frontend:</h3>
 <p align="left"> 
