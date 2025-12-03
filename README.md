@@ -6,16 +6,20 @@
 <h3 align="center">I just became Permanent Residence in United States on 26 October, 2025 :raised_hands::raised_hands::raised_hands:</h3>
 <h3 align="center">Please kindly check my portfolio via: https://quocbui.me/</h3>
 
-<h3 align="left">Certificates:</h3>
-
-<p align="left"> 
+<h3 align="center">Certificates:</h3>
+<p align="center"> 
 <a href="https://www.credly.com/badges/6029a8c8-a49f-49b5-bf1c-ae9bbc36dfff/linked_in_profile" target="blank"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png" alt="CKAD Image" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Social network:</h3>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/quoc-bui-368515163/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/quoc-bui-368515163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quoc-bui-368515163/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/buiquoc67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/buiquoc67" height="30" width="40" /></a>
+<a href="https://www.facebook.com/buiquoc67" target="blank">
+   <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
 </p>
 
 <h3 align="center">Languages:</h3>
@@ -43,7 +47,7 @@
 <h3 align="center">Tools & DevOps:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,git,jenkins,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,git,githubactions,jenkins,postman,linux" />
   </a>
 </p>
 
