@@ -21,7 +21,7 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,jquery,go" />
   </a>
 </p>
 
@@ -36,16 +36,14 @@
 <h3 align="center">Backend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,express,kafka,redis,nginx,mongodb,postgres,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,npm,yarn,pnpm,express,kafka,redis,nginx,mongodb,postgres,graphql" />
   </a>
 </p>
 
-<h3 align="left">Tools & DevOps:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a>
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></p>
+<h3 align="center">Tools & DevOps:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,git,jenkins,postman,linux" />
+  </a>
+</p>
 
