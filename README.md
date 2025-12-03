@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
 
 <h3 align="center">A passionate developer with algorithm and infrastructure from Vietnam</h3>
+<h3 align="center">I just became Permanent Residence in United States on 26 October, 2025 :raised_hands:</h3>
 <h3 align="center">Please kindly check my portfolio via: https://quocbui.me/</h3>
 
 <h3 align="left">Certificates:</h3>
