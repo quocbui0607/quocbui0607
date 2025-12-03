@@ -16,10 +16,6 @@
 <a href="https://www.linkedin.com/in/quoc-bui-368515163/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="https://www.facebook.com/buiquoc67" target="blank">
-   <img src="https://skillicons.dev/icons?i=facebook" />
-</a>
 </p>
 
 <h3 align="center">Languages:</h3>
