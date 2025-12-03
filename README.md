@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quoc (Warren) </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
 
 <h3 align="center">A passionate developer with algorithm and infrastructure from Vietnam</h3>
 <h3 align="center">I just became Permanent Residence in United States on 26 October, 2025 :raised_hands::raised_hands::raised_hands:</h3>
