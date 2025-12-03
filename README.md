@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Quoc (Wong)</h1>
+<h1 align="center">Hi 👋, I'm Quoc (Wong) </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
+
 <h3 align="center">A passionate developer with algorithm and infrastructure from Vietnam</h3>
 <h3 align="center">Please kindly check my portfolio via: https://quocbui.me/</h3>
 
@@ -8,7 +11,6 @@
 <a href="https://www.credly.com/badges/6029a8c8-a49f-49b5-bf1c-ae9bbc36dfff/linked_in_profile" target="blank"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png" alt="CKAD Image" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quocbui0607&label=Profile%20views&color=0e75b6&style=flat" alt="quocbui0607" /> </p>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/quoc-bui-368515163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quoc-bui-368515163/" height="30" width="40" /></a>
