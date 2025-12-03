@@ -19,8 +19,11 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,go)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,ts,html,css,sass,go)" />
+  </a>
+</p>
 <h3 align="left">Frontend:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
