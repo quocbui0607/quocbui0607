@@ -50,8 +50,8 @@
 <b>My GitHub Stats</b>
 <table border="0">
   <tr>
-    <td><a href="http://www.github.com/quocbui0607"><img src="https://github-readme-stats.vercel.app/api?username=quocbui0607&show_icons=true&hide=&count_private=true&title_color=a1eb34&text_color=a855f7&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="Quoc's github stats" /></a></td>
-    <td><a href="http://www.github.com/quocbui0607"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quocbui0607&stroke=a855f7&background=171717&ring=ef4444&fire=a1eb34&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></td>
+    <td style="border: 0;"><a href="http://www.github.com/quocbui0607"><img src="https://github-readme-stats.vercel.app/api?username=quocbui0607&show_icons=true&hide=&count_private=true&title_color=a1eb34&text_color=a855f7&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="Quoc's github stats" /></a></td>
+    <td style="border: 0;"><a href="http://www.github.com/quocbui0607"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quocbui0607&stroke=a855f7&background=171717&ring=ef4444&fire=a1eb34&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></td>
   </tr>
 </table>
 
